@@ -1,0 +1,5 @@
+0-Iniciar con cmd: mongod
+1-terminal: mongo
+2-terminal: npm run dev
+3-terminal: npm run webpack
+
